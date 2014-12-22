@@ -35,10 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A godly Confession
-and Protestacion
-of the christian fayth, made and
-set furth by Ihon Hooper, wheri
+
 1. To the Most vertuous
 and myghtie Prynce, Edward the sixt
 our mooste redoubted soueraygne Lorde, Kynge of
